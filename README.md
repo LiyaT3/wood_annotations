@@ -1,2 +1,2 @@
-# Wood_Annotations
+# Wood_Quality
 Annotated Images for the Wood Dataset
